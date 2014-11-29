@@ -1,0 +1,55 @@
+html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+#bodyContent img{ max-width:210px; }
+#map-canvas{ height:400px;}
+
+.jumbotron{ background: url('../img/header.jpg');
+            background-size: cover;
+	    	background-position: 50% 50%;
+	    	background-repeat: no-repeat no-repeat; 
+    	    color:black;
+}
+
+h2{ margin-top:60px; }
+
+h2#sarrera{ margin-top:20px;}
+
+.fa-check-circle-o{ color: green; }
+
+.fa-question-circle{ color: darkred; }
+.footer{ text-align: center; padding:20px; margin-top:200px; font-size: 0.8em; text-shadow: 1px 1px 2px;}
+
+.panel-heading img{ max-width:60px; }
+
+ul.nav-tabs {
+	margin-top: 20px;
+	border-radius: 4px;
+	border: 1px solid #ddd;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+}
+ul.nav-tabs li {
+	margin: 0;
+	border-top: 1px solid #ddd;
+}
+ul.nav-tabs li:first-child {
+	border-top: none;
+}
+ul.nav-tabs li a {
+	margin: 0;
+	padding: 8px 16px;
+	border-radius: 0;
+}
+ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover {
+	color: #fff;
+	background: #0088cc;
+	border: 1px solid #0088cc;
+}
+ul.nav-tabs li:first-child a {
+	border-radius: 4px 4px 0 0;
+}
+ul.nav-tabs li:last-child a {
+	border-radius: 0 0 4px 4px;
+}

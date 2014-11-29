@@ -1,0 +1,180 @@
+<html>
+	<head>
+		<title>Taldekako 100 x 100 Froga</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta author="Andoni Correas Illarramendi" />
+
+		<meta name="description" content="Taldeka 100x100 froga Oñatiko igerilekuan errelebo bitartez" />
+		<meta property="og:title" content="Taldekako 100x100 froga Oñatiko Igerilekuan" />
+		<meta property="og:url" content="oinatikoduatloia.com/100bider100"/>
+		<meta property="og:image" content="oinatikoduatloia.com/100bider100/img/header.jpg"/>
+		<meta property="og:description" content="Taldeka 100x100 froga Oñatiko igerilekuan errelebo bitartez" />	
+		<meta property="og:site_name" content="Taldekako 100x100 froga Oñatiko Igerilekuan"/>
+
+		<link href="css/bootstrap.min.css" rel="stylesheet" />
+		<link href="css/font-awesome.min.css" rel="stylesheet" />
+		<link href="css/style.css" rel="stylesheet" />
+	</head>
+
+<body data-spy="scroll" data-target="#myScrollspy">
+
+	<div class="jumbotron">
+		<div class="container">
+    			<h1>100 x 100 Erreleboka</h1>
+			<p>Urtarrilaren 17an, 15:00 Oñatiko Igerilekuan</p>
+  		</div>
+	</div>
+
+	<div class="container fixhere">
+		<div class="row">
+
+			<div class="col-md-2 hidden-xs hidden-sm" id="myScrollspy">
+			    <ul class="nav nav-tabs nav-stacked" id="menua">
+			        <li class="active"><a href="#sarrera">Sarrera</a></li>
+			        <li><a href="#froga">Froga</a></li>
+			        <li><a href="#gonbidapenak">Gonbidatutako Taldeak</a></li>
+				<li><a href="#epeak">Epeak</a></li>
+				<li><a href="#oharrak">Oharrak</a></li>
+				<li><a href="#mezuak">Utzi mezu bat</a></li>
+			    </ul>
+	        	</div>
+
+			<div class="col-xs-12 col-md-9 col-md-offset-1">
+
+				<h2 id="sarrera">Sarrera</h2>
+				<p>
+					Oñatiko Triatloi Taldeak, Urolako Triatloi Taldeari testigua hartu, eta aurten lehenengoz taldekako 100x100 froga antolatzea erabaki du. Horretarako, Oñatiko kiroldegiak hiru kale eskeini dizkigu. Gainontzeko beste bi kaleetan, kiroldegiko erabiltzaile arruntak egongo dira igerian. Plana honakoa da:
+				</p>
+				<ul>
+					<li><b>15:00 </b>Guztiok Oñatiko kiroldegi kanpoan elkartu </li>
+					<li><b>15:01 </b> Beroketa igerilekuan</li>
+					<li><b>15:30 </b>Frogaren hasiera</li>
+					<li><b>Amaitutakoan </b></li>
+					<ul>
+						<li>Dutxa</li>
+						<li>Luntx txiki bat Pago Uso elkartean</li>
+					</ul>
+				</ul>
+
+				
+				<h2 id="froga">Froga</h2>
+				<p>
+					Urolakoek bere garaian zioten bezela, triatletak uretan espazio gutxi elkar banatzera ohituta gaude eta oraingoan ez da gutxiago izango. Kale bakoitzean bi talde sartuko dira, talde bakoitzak kale erdiko espazioa okupatuz.
+				</p>
+				<p>
+					Igerilari bakoitzak, 100 metro jarraian igeriko ditu, eta taldekideen artean antolatuko dira 100 errepikapen guztion artean egiteko. Errelebo bakoitzari uretatik zein igerileku kanpotik eman ahal izango zaio hasiera, beti ere aurreko taldekideak bere lana amaitu duela kontutan hartuta. Printzipioz, ez dugu taldeko kopuru maximorik ezarriko.
+				</p>
+
+				<p>
+					<div class="well">Adibidez talde batek 10 taldekide baldin baditu, bakoitzak 100 metroko 10 errelebo emanda, eman beharreko 100 erreleboak burutuko lituzke.</div>
+				</p>
+
+				<p>
+					100 erreleboak azkarren ematen dituen taldeak, irabaziko du erronka.
+				</p>
+
+
+				<h2 id="gonbidapenak">Gonbidatutako Taldeak</h2>
+				
+				<div class="row">
+					<div class="col-xs-12 col-md-4">
+						<div class="panel panel-success">
+	                                       		<div class="panel-heading"><img src="img/logo.png" />Oñatiko Triatloi Taldea</div>
+	                                        	<div class="panel-body">
+	                                        		<i class="fa fa-check-circle-o"></i> Konfirmatuta
+							</div>
+	                                	</div>
+					</div>
+					<div class="col-xs-12 col-md-4">
+						<div class="panel panel-default">
+		  					<div class="panel-heading"><img src="img/urola_tri.jpg" />Urolako Triatloi Taldea</div>
+		  					<div class="panel-body">
+		    						<i class="fa fa-question-circle"></i> Konfirmatu gabe
+		  					</div>
+						</div>
+					</div>
+
+					<div class="col-xs-12 col-md-4">
+						<div class="panel panel-default">
+		                                        <div class="panel-heading"><img src="img/atxintxika.jpg" /> Antxintxika</div>
+		                                        <div class="panel-body">
+		                                                <i class="fa fa-question-circle"></i> Konfirmatu gabe
+		                                        </div>
+		                                </div>
+
+					</div>
+				
+					
+				</div>
+
+			<div class="row">
+
+				<div class="col-xs-12 col-md-4">
+						<div class="panel panel-success">
+		                                        <div class="panel-heading"><img src="img/triku.png" />Triku</div>
+		                                        <div class="panel-body">
+		                                                <i class="fa fa-check-circle-o"></i> Konfirmatuta
+		                                        </div>
+		                                </div>
+					</div>
+				<div class="col-xs-12 col-md-4">
+					<div class="panel panel-default">
+	                                        <div class="panel-heading"><img src="img/eibar.jpg" /> Eibarko Triatloi Taldea</div>
+	                                        <div class="panel-body">
+	                                                <i class="fa fa-question-circle"></i> Konfirmatu gabe
+	                                        </div>
+	                                </div>
+				</div>
+
+				<div class="col-xs-12 col-md-4">
+					<div class="panel panel-default">
+	                                        <div class="panel-heading"><img src="img/azkoiti.jpg" /> Azkoitiko Triatloi Taldea</div>
+	                                        <div class="panel-body">
+	                                                <i class="fa fa-question-circle"></i> Konfirmatu gabe
+	                                        </div>
+	                                </div>
+
+				</div>
+
+			</div>
+
+				<div class="col-xs-12">
+					<h2 id="epeak">Epeak</h2>
+					<ul>
+						<li><b>Abenduak 15</b>: Asistentzia konfirmatu gutxi gora beherako parte hartzaile zerrenda batekin</li>
+						<li><b>Urtarrilak 14</b>: Taldeko parte-hartzaile zerrenda zehatza</li>
+					</ul>
+				</div>
+			
+				<div class="col-xs-12">
+					<h2 id="oharrak">Oharrak</h2>
+					<ul>
+						<li>Igerilekura sartzeko beharrezkoa da bainujantzi eta txankletak jantzita eramatea</li>
+						<li>Pistina kanpoan zain egoteko arropa eramatea gomendatzen da (fraka motz, kamiseta, albornoza...) hotzik ez pasatzeko</li>
+					</ul>
+				</div>
+				<div class="col-xs-12">
+					<h2 id="mezuak">Utzi Mezu Bat</h2>
+					<p>
+						--- xxx ---
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer">
+		<p>&copy; Oñatiko Triatloi Taldea 2014/2015</p>
+	</div>
+
+	<script src="js/lib/jquery.js"></script>
+	<script src="js/lib/fixto.js"></script>
+	<script>
+		$('#menua').fixTo('.fixhere',{
+			top:60,
+		});
+	</script>
+	<script src="js/lib/bootstrap.min.js"></script>
+</body>
+</html>
